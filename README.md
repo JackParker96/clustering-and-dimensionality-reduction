@@ -4,4 +4,4 @@ During the spring of 2023, I compared the performance of various clustering algo
 
 I also compared the performance of two dimensionality reduction techniques, **PCA** and **t-SNE** on projecting the MNIST dataset in 2D space.
 
-<span style="color:blue">some *blue* text</span>.
+<span style="color:blue">some *This is Blue italic.* text</span>
